@@ -27,6 +27,7 @@
   {"type_idn":50, "param":"angle_adjust_max",               "param_idn":  25, "format":"f", "unit": "rad"         },
   {"type_idn":50, "param":"angle_adjust_kp",                "param_idn":  26, "format":"f", "unit": "V/rad"       },
   {"type_idn":50, "param":"angle_adjust_ki",                "param_idn":  27, "format":"f", "unit": "V/(rad*s)"   },
+  {"type_idn":50, "param":"v_max_start",                    "param_idn":  29, "format":"f", "unit": "V"           },
   {"type_idn":50, "param":"motor_Kv",                       "param_idn":  32, "format":"f", "unit": "RPM/V"       },
   {"type_idn":50, "param":"motor_R_ohm",                    "param_idn":  33, "format":"f", "unit": "ohm"         },
   {"type_idn":50, "param":"motor_I_max",                    "param_idn":  34, "format":"f", "unit": "A"           },
