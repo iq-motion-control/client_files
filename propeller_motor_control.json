@@ -18,5 +18,6 @@
   {"type_idn":52, "param":"input_filter_fc",      "param_idn":  16, "format":"I", "unit": "Hz"          },
   {"type_idn":52, "param":"timeout_meaning",      "param_idn":  17, "format":"B", "unit": "enum"        },
   {"type_idn":52, "param":"timeout_behavior",     "param_idn":  18, "format":"B", "unit": "enum"        },
-  {"type_idn":52, "param":"timeout_song_option",  "param_idn":  19, "format":"B", "unit": "enum"        }
+  {"type_idn":52, "param":"timeout_song_option",  "param_idn":  19, "format":"B", "unit": "enum"        },
+  {"type_idn":52, "param":"additional_velocity",  "param_idn":  20, "format":"f", "unit": "rad/s"       }
 ]
