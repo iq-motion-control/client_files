@@ -11,6 +11,6 @@
   {"type":"PowerMonitor", "type_idn":69, "param":"volts_gain",                "param_idn":  9, "format":"f", "unit": "V/bit"      },
   {"type":"PowerMonitor", "type_idn":69, "param":"amps_gain",                 "param_idn": 10, "format":"f", "unit": "A/bit"      },
   {"type":"PowerMonitor", "type_idn":69, "param":"amps_bias",                 "param_idn": 11, "format":"f", "unit": "ADC Ticks"  },
-  {"type":"PowerMonitor", "type_idn":69, "param":"volts_cascaded",            "param_idn": 13, "format":"f", "unit": "V"  },
-  {"type":"PowerMonitor", "type_idn":69, "param":"volts_cascaded_filter_fc",  "param_idn": 14, "format":"I", "unit": "Hz"  }
+  {"type":"PowerMonitor", "type_idn":69, "param":"volts_cascaded",            "param_idn": 13, "format":"f", "unit": "V"          },
+  {"type":"PowerMonitor", "type_idn":69, "param":"volts_cascaded_filter_fc",  "param_idn": 14, "format":"I", "unit": "Hz"         }
 ]
