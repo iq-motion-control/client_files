@@ -56,5 +56,7 @@
   {"type_idn":50, "param":"regen_limit_max",                "param_idn":  57, "format":"f", "unit": "V"           },
   {"type_idn":50, "param":"motoring_limit_kp",              "param_idn":  58, "format":"f", "unit": "V/A"         },
   {"type_idn":50, "param":"motoring_limit_ki",              "param_idn":  59, "format":"f", "unit": "(V*s)/A"     },
-  {"type_idn":50, "param":"motoring_limit_max",             "param_idn":  60, "format":"f", "unit": "V"           }
+  {"type_idn":50, "param":"motoring_limit_max",             "param_idn":  60, "format":"f", "unit": "V"           },
+  {"type_idn":50, "param":"derate_low_pass_filter_fc",      "param_idn":  61, "format":"I", "unit": "Hz"           },
+  {"type_idn":50, "param":"derate_low_pass_filter_fs",      "param_idn":  62, "format":"I", "unit": "Hz"           }
 ]
