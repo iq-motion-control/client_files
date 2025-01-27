@@ -11,5 +11,6 @@
   {"type_idn":80, "param":"telemetry_frequency",            "param_idn":  9,  "format":"I",  "unit": "Hz"                 },
   {"type_idn":80, "param":"bit_rate",                       "param_idn":  10, "format":"I",  "unit": "bit/s"              },
   {"type_idn":80, "param":"bypass_arming",                  "param_idn":  11, "format":"B",  "unit": "bool"               },
-  {"type_idn":80, "param":"arming_by_arming_status",        "param_idn":  12, "format":"B",  "unit": "bool"               }
+  {"type_idn":80, "param":"arming_by_arming_status",        "param_idn":  12, "format":"B",  "unit": "bool"               },
+  {"type_idn":80, "param":"telemetry_style",                "param_idn":  13, "format":"B",  "unit": "bool"               }
 ]
