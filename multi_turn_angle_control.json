@@ -34,5 +34,4 @@
   {"type_idn":59, "param":"low_power_hold_allowed_target_error",  "param_idn":  33, "format":"f", "unit": "rad"       },
   {"type_idn":59, "param":"low_power_hold_max_brake_error",       "param_idn":  34, "format":"f", "unit": "rad"       },
   {"type_idn":59, "param":"ctrl_angle_low_power",                 "param_idn":  34, "format":"f", "unit": "rad"       }
-
 ]

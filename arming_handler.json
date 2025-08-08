@@ -11,5 +11,5 @@
   {"type_idn": 86, "param": "disarm_song_option",                         "param_idn": 10,  "format": "B", "unit": "enum"       },
   {"type_idn": 86, "param": "motor_armed",                                "param_idn": 12,  "format": "B", "unit": "bool"       },
   {"type_idn": 86, "param": "consecutive_disarming_throttles_to_disarm",  "param_idn": 13,  "format": "I", "unit": "throttles"  },
-  {"type_idn": 86, "param": "play_arming_song_on_arm",                    "param_idn": 14,  "format": "B", "unit": "bool"  }
+  {"type_idn": 86, "param": "play_arming_song_on_arm",                    "param_idn": 14,  "format": "B", "unit": "bool"       }
 ]
