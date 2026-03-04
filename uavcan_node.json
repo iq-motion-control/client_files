@@ -12,5 +12,10 @@
   {"type_idn":80, "param":"bit_rate",                       "param_idn":  10, "format":"I",  "unit": "bit/s"              },
   {"type_idn":80, "param":"bypass_arming",                  "param_idn":  11, "format":"B",  "unit": "bool"               },
   {"type_idn":80, "param":"arming_by_arming_status",        "param_idn":  12, "format":"B",  "unit": "bool"               },
-  {"type_idn":80, "param":"telemetry_style",                "param_idn":  13, "format":"B",  "unit": "bool"               }
+  {"type_idn":80, "param":"telemetry_style",                "param_idn":  13, "format":"B",  "unit": "bool"               },
+  {"type_idn":80, "param":"actuator_id",                    "param_idn":  14, "format":"I",  "unit": "index [0, 255]"     },
+  {"type_idn":80, "param":"warning_enable_bitmask",         "param_idn":  15, "format":"I",  "unit": "Bitmask"            },
+  {"type_idn":80, "param":"error_enable_bitmask",           "param_idn":  16, "format":"I",  "unit": "Bitmask"            },
+  {"type_idn":80, "param":"critical_enable_bitmask",        "param_idn":  17, "format":"I",  "unit": "Bitmask"            },
+  {"type_idn":80, "param":"error_count_configuration",      "param_idn":  18, "format":"I",  "unit": "enum"               }
 ]
